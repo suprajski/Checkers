@@ -139,6 +139,17 @@ python main.py alphabeta
 - Prunes unnecessary branches  
 - Allows deeper search with better performance  
 
+
+### Depth 
+- It can be modified in main.py file
+
+```bash
+if game.turn == WHITE:
+            value, new_board = choose_ai_move(game.board, 3, WHITE, game, algorithm)
+            game.ai_move(new_board)
+```
+Where the number 3 is by default  
+
 ---
 
 ## Development
