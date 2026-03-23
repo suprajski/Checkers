@@ -4,6 +4,7 @@ This project implements a playable version of **Checkers** with an AI opponent u
 
 The goal is to model the game as an adversarial search problem and compare the performance of different decision-making algorithms.
 
+GUI was made by following youtube tutorial from the channel https://www.youtube.com/@TechWithTim
 ---
 
 
