@@ -6,17 +6,6 @@ The goal is to model the game as an adversarial search problem and compare the p
 
 ---
 
-## Table of Contents
-
-- Folder Structure  
-- Cloning the Repository  
-- Installing Python Environment  
-- Running the Program  
-- AI Algorithms  
-- Development  
-- Known Limitations  
-
----
 
 ## Folder Structure
 
